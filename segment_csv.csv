@@ -1,0 +1,9 @@
+GM_path,Diagnosis,Age,TIV,ScannerDemean
+imag/AR_F17_AL_308.nii,3,78.2,446113,0
+imag/AR_F17_AL_315.nii,3,89.5,446114,1
+imag/AR_F17_CN_104.nii,0,50.6,446115,0
+imag/AR_F17_CN_107.nii,0,65.0,446116,1
+imag/AR_F17_DF_201.nii,2,68.9,446117,0
+imag/AR_F17_DF_202.nii,2,72.4,446118,1
+imag/AR_F17_CN_104.nii,1,50.6,446115,0
+imag/AR_F17_CN_107.nii,1,65.0,446116,1
